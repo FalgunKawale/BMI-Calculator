@@ -1,4 +1,4 @@
-                                                                      BMI Calculator - Your Health in Numbers
+    BMI Calculator - Your Health in Numbers
 
 Introduction:
                                                                                   
